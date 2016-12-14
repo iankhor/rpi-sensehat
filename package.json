@@ -1,0 +1,25 @@
+{
+  "name": "raspberry-sensehat",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.5.2",
+    "express": "~4.14.0",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.1",
+    "ioctl": "^2.0.0",
+    "morgan": "~1.7.0",
+    "node-sass-middleware": "0.9.8",
+    "path": "^0.12.7",
+    "pngjs": "^3.0.0",
+    "sense-hat-led": "^1.0.0",
+    "serve-favicon": "~2.3.0",
+    "sleep": "^5.0.0"
+  }
+}
